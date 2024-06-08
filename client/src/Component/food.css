@@ -1,0 +1,154 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.class-container {
+    background-color: rgb(238, 228, 228); 
+    padding-bottom: 2%;
+}
+
+#img10 {
+    width: 97%;
+    height: 100%;
+    border-radius: 20px;
+    margin-left: 10px;
+}
+
+.dis2 {
+    background-color:  black;
+}
+
+.img10 {
+    width: 68%;
+    height: 50%;
+    margin-left: 17%;
+    margin-bottom: 0px;
+    background-color:  black;
+}
+
+.d {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.details {
+    color: orange;
+    width: 68%;
+    margin-left: 17%;
+    height: 60%;
+    margin-top: 0px;
+    margin-bottom: 5%;
+    padding-bottom: 10px;
+    background-color:  black;
+}
+
+#h9 {
+    padding-left: 3%;
+    font-size: 40px;
+    padding-top: 2%;
+    font-family: sans-serif;
+    background-color:  black;
+}
+
+.h2 {
+    padding-left: 6%;
+    font-size: 25px;
+    padding-top: 2%;
+    font-family: sans-serif;
+    background-color:  black;
+}
+
+.in1 {
+    margin-left: 6%;
+    margin-top: 2%;
+    padding-left: 30px;
+    width: 70%;
+    height: 20px;
+    font-size: 20px;
+    padding: 12px;
+    background-color:  black;
+    color: white;
+}
+
+#Ab {
+    margin-left: 6%;
+    margin-top: 1%;
+    font-family: sans-serif;
+    background-color:  black;
+}
+
+#cnt {
+    width: 30%;
+}
+
+#cnt2 {
+    width: 20%;
+    margin-left: 6%;
+    background-color:  black;
+}
+
+.date {
+    display: inline-block;
+    background-color:  black;
+}
+
+.date2 {
+    display: inline-block;
+    padding-left: 33.5%;
+    background-color:  black;
+}
+
+.area {
+    margin-left: 6%;
+    margin-top: 2%;
+    width: 70%;
+    font-size: 20px;
+    padding: 10px;
+    padding-bottom: 10%;
+    background-color:  black;
+    color: white;
+}
+
+#btn9 {
+    display: block;
+    padding: 10px;
+    margin-top: 3%;
+    margin-left: 40%;
+    width: 150px;
+    font-size: 20px;
+    color: white;
+    background-color: orange;
+    margin-bottom: 3%;
+    
+}
+
+#btn:hover {
+    cursor: pointer;
+}
+
+#file {
+    font-size: 100%;
+    margin-top: 2%;
+    margin-left: 6%;
+    background-color:  black;
+}
+
+.inside {
+    margin-bottom: 5%;
+    background-color:  black;
+}
+
+#form {
+    background-color: rgb(238, 228, 228);
+}
+
+#new {
+    color: white; /* Ensuring text color is visible */
+    background-color: orange; /* Ensuring background color provides contrast */
+}
+
+.co {
+    color:  black;
+    background-color: orange;
+}

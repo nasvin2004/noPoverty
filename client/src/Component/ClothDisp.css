@@ -1,0 +1,78 @@
+#nh{
+    background-color: orange;
+    text-align: center;
+     padding: 20px;
+    
+}
+
+.div01{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.div20{
+   margin-top: 2%;
+   width:500px;
+    color:   rgb(30, 10, 10); ;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-left: 20px;
+    padding:5px;
+    border: 5px solid white;
+    border-radius: 5px;
+    background-color:black; 
+}
+.div2:hover{
+    background-color: orange;
+    color: black;
+    border: 5PX solid orange;
+   
+    
+
+}
+#img15{
+    width:350px;
+    height: 250px;
+    padding-left: 9%;
+    background-color: black;
+}
+.card{
+  background-color: black; 
+}
+.p{
+    color: white;
+    background-color: black;
+    padding: 25px;
+}
+.l{
+    background-color: black;
+    font-size: 20px;
+}
+
+.btn{
+    position: absolute;
+    padding: 16px;
+    width: 120px;
+    height: 66px;
+    border-color: black;
+    border-radius: 18px;
+    left: 86%;
+    top: 80%;
+    background-color: black;
+}
+
+.icon{
+    color: rgb(255, 255, 255);
+    font-weight: 800px;
+    font-size: 32px;
+    background-color: black;
+}
+.btn0{
+    position: absolute;
+    top:4px;
+    right:160px
+}
